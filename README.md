@@ -1,7 +1,9 @@
 ### Hi there  👋
 
 I'm Diego! I am an experienced Software Developer with a Degree in Systems Engineering from the Autonomous University of Colombia.
-I'm currently learning and developing geospatial analysis and applications and you can see some my latest work [here](https://diegovargasg.github.io/coolmaps/) 🗺️
+I'm currently learning and developing geospatial analysis and WebGIS applications. 
+
+You can see some my latest geospatial analysis and maps [here](https://diegovargasg.github.io/coolmaps/) 🗺️
 
 <!--
 **diegovargasg/diegovargasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
